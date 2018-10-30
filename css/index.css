@@ -1,0 +1,64 @@
+.font1 {
+    color: blue;
+    font-size: 16px;
+
+}
+.hr1{
+    height: 5px;
+    border-top: 5px solid #DAA520;
+}
+.image{
+  padding-top:5px;
+  margin-top: 10px;
+}
+
+.para{
+  font-size: 15px;
+  font-family: Times New Roman;
+}
+
+.para1{
+   font-size: 10px;
+}
+.hr2{
+  height:1px;
+  background-color: white;
+}
+
+.para2{
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 28px;
+  color: black;
+}
+
+.graybox{
+  background-color:lightgray;
+  height: 250px;
+  width:100%;
+
+}
+
+ .footer {
+    background-color: #333333;
+    font-size: 80%;
+    padding-top :15px;
+    padding-bottom: 35px;
+
+}
+.leftfooter {
+    font-size : 14px;
+    font-family: "Times New Roman", Times, serif;
+    float: left;
+}
+.rightfooter{
+    font-size : 11px;
+    font-family: "Times New Roman", Times, serif;
+    float: right;
+}
+.div{
+  color: lightgrey;
+}
+
