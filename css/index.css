@@ -1,49 +1,82 @@
-.font1 {
-    color: blue;
+.heading{
+    color: #3355aa;
     font-size: 16px;
-
+    border-bottom: 2.5px solid #DAA520;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 5px;
 }
-.hr1{
-    height: 5px;
-    border-top: 5px solid #DAA520;
-}
-.image{
-  padding-top:5px;
-  margin-top: 10px;
-}
-
-.para{
+.navbar
+{
+  background-color: #3355aa;
+  margin-top: 20px;
   font-size: 15px;
-  font-family: Times New Roman;
+  height: 40px;
 }
 
-.para1{
-   font-size: 10px;
-}
-.hr2{
-  height:1px;
-  background-color: white;
-}
-
-.para2{
-  text-align: center;
+.bannerCard{
   margin-top: 10px;
-  padding-top: 25px;
+  margin-bottom: 35px;
+}
+
+.bannerParagraph
+{
+  color:#222222;
+padding-bottom: 5px;
+font-size: 13px;
+
+}
+
+.paragraph {
+  font-size: 13px;
+    color:#222222;
+font-style: italic;
+font-style: italic;
+}
+
+.view{
+  text-align:center;
+  color: #3355aa;
+}
+
+.headingSector {
+  padding-top: 20px;
   padding-bottom: 25px;
   font-size: 28px;
-  color: black;
+  text-align: center;
+  border-top: 2px solid #F5F5F5;
+  font-weight: bold;
 }
 
-.graybox{
-  background-color:lightgray;
+.announcementParagraph{
+   font-size: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-bottom: 1px solid #808080;
+}
+
+.containerBackground{
+   background-color:#D3D3D3;
+}
+
+.boxAdjust{
+  margin: 5px;
+  background-color:#F5F5DC;
   height: 250px;
-  width:100%;
+}
+.headingBottom{
+  display: block;
+  padding:12px 40px;
+  font-size: 16px;
+  color: #3355aa;
+
 
 }
 
  .footer {
     background-color: #333333;
     font-size: 80%;
+    margin-top: 25px;
     padding-top :15px;
     padding-bottom: 35px;
 
@@ -58,7 +91,12 @@
     font-family: "Times New Roman", Times, serif;
     float: right;
 }
-.div{
-  color: lightgrey;
+
+.footerTop{
+  border-bottom: 2px solid #3d3d3d;
 }
 
+.footerBottom{
+  margin-top: 20px;
+  padding-bottom: 35px;
+ }
